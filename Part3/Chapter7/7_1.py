@@ -23,3 +23,5 @@ def target():
 def func(*args):
     print(args)
 
+
+
